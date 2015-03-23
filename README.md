@@ -1,4 +1,5 @@
 # Content marketing and SEO
+[SEO Links](https://github.com/stlouisweb/seo-notes/blob/master/links.md)
 
 ## Document your SEO strategy
 Create a plan, start basic and audit and evolve your plan based on what works, changing needs, etc.
