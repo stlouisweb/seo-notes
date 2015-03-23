@@ -33,7 +33,7 @@ Even though search is becoming more context-driven, choosing the right keywords 
 
 ## Optimize your content
 
-
-
+Once you’ve identified your target keywords, you have to be sure that your content is optimized for them.
+[finding and using keywords to optimize your content](http://contentmarketinginstitute.com/2012/08/optimize-content-when-you-dont-know-seo/)
 
 
