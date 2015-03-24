@@ -4,11 +4,31 @@
 ## Document your SEO strategy
 Create a plan, start basic and audit and evolve your plan based on what works, changing needs, etc.
 
-### View SEO and content marketing as partners
+### SEO Tools
+[Moz Open Site Explorer](https://moz.com/researchtools/ose/)
 
 
 ## Audit your SEO Strategy
 Search algorithm is constantly changing so need to frequently check up on your strategies and their effectiveness [How to audit](http://contentmarketinginstitute.com/2014/04/audit-website-content-for-seo/)
+
+#### Collecting Analytics
+A key part of any SEO audit is going through and gathering all of the data and analytics out there regarding your website content (traffic, keywords, referral traffic for each landing page, etc.)
+
+#### Targeted Keywords
+You always want to go through and analyze the keywords you’re targeting and using most frequently in your website content — to identify any changes in their performance, as well as for relative value to your business compared to your competition. You should also conduct research on overall keyword performance trends so you are always on top of the latest terms that may be worth pursuing in the immediate future.
+
+#### Domain Issues
+Make sure that there are no unsanctioned domains and/or subdomains out there that are linked to your company.
+
+#### Check sitemaps
+Make sure xml sitemaps are up to date
+
+#### Linking Concerns
+Obviously, it’s important to make sure you don’t have any broken links on your website. As part of your audit, you should routinely go through and spot check internal links to make sure everything is still working — especially on pages where your older content resides. It’s also important to have at least 1 or 2 internal links within all of your content. This is good practice for creating a quality user experience, as well as for SEO.
+You also want to use an SEO tool (discussed in the next section) to help you identify links from outside sources that are pointing back toward your site. If external sites have poor or broken links that point back to your site, it can significantly impact your SEO.
+
+#### Load Times
+You always want to make sure that your pages load quickly and completely so you don’t turn your visitors away.
 
 ## Owned, Paind and Earned
 Owned = Your content published by you on your site
